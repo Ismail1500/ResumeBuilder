@@ -1,5 +1,7 @@
 # Resume Builder 
-This Resume Builder provide you to create An Awesome Resumes quickly , There are Four Beautiful Templetes you can choose anyone .
+This Resume Builder provide you to create An Awesome Resumes quickly , 
+
+There are Four Beautiful Templetes you can choose anyone .
 
 
 
