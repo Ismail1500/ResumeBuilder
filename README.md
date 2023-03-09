@@ -15,6 +15,12 @@ This URL has the application deployed in
 
 ### link...........
 
+## Pages in the Projects:
+- Home Page
+- Details Filling Page
+- Preview Page
+- About us page
+
 ## Project ScreenShot 
 
 ### Image 01
@@ -35,7 +41,9 @@ This URL has the application deployed in
   4.Redux for state management.  
   5.React-avatar-edit for selecting profile image for resume.
   6.React-router-dom for routing.
-  
+  7.Material UI Library.
+  8.Material UI Icons.
+  9.jspdf library
 
 ## Installation guide
 
