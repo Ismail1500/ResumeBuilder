@@ -52,5 +52,6 @@ Now open [http://localhost:3000].
 
 
 
-
+## NOTE
+  <p> This capstone project is associated with <a href="https://www.almabetter.com">Almabetter</a>.</p>
 
