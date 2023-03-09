@@ -27,8 +27,6 @@ This URL has the application deployed in
 <img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image3.png"/>
 
 
-
-
 ### Technologies that we were used in this project.
 
   1.React.
@@ -49,6 +47,8 @@ npm install
  npm start
 ```
 Now open [http://localhost:3000].
+
+
 
 
 
