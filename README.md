@@ -16,9 +16,17 @@ This URL has the application deployed in
 ### link...........
 
 ## Project ScreenShot 
+
 ### Image 01
 <img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image1.png"/>
+
 ### Image 02
+<img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image1.png"/>
+
+### Image 03
+<img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image1.png"/>
+
+
 
 
 ### Technologies that we were used in this project.
