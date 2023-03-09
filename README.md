@@ -17,7 +17,7 @@ This URL has the application deployed in
 
 ## Project ScreenShot 
 
-<img align="center" src="https://raw.githubusercontent.com/dfuseop-exe/dfuseop-exe/main/Modern Professional Creative Business Agency LinkedIn Banner (4).png"/>
+<img align="center" src="https://raw.githubusercontent.com/Ismail1500/Ismail1500/main/image1.png"/>
 
 
 ### Technologies that we were used in this project.
