@@ -42,6 +42,8 @@ This URL has the application deployed in
 For My Developers Friends
 
 ```sh
+clone project https://github.com/Ismail1500/Flashcard_Generator
+
 npm install
 
  npm start
