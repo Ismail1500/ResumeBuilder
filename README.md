@@ -24,7 +24,7 @@ This URL has the application deployed in
 <img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image2.png"/>
 
 ### Image 03
-<img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image1.png"/>
+<img align="center" src="https://github.com/Ismail1500/ResumeBuilder/blob/main/image3.png"/>
 
 
 
