@@ -5,19 +5,9 @@ There are Four Beautiful Templetes you can choose anyone .
 
 
 
-
-## ScreenShots
-
-  ## ( img1 ).
- 
-  ## ( img2 ).
- 
-  ## ( img3 ).
-
-
 ## Live Application URL
 
-### link...............
+### https://ismailresumebuilder.netlify.app
 
 This URL has the application deployed in
 
